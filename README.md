@@ -1,12 +1,5 @@
-# comp-484-weather-project
-COMP 484 Weather Web application
+# COMP 484 Weather Web App
 
-Download,
+Displays current and forecasted weather information such as temperature, humidity, air pressure, overall weather conditions, and a map centered on user location.
 
-To install dependancies, use
-
-npm init
-
-to run use
-
-node server.js
+https://c484-weather-application.herokuapp.com/
